@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ezra - @STENTORS
-- 👀 I’m interested in software development and cyber security
+- 👀 I’m interested in backend development and cyber security
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Microbiology Enthusiast 
 
