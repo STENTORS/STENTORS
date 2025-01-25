@@ -1,5 +1,3 @@
-<img align="right" src="binary-git.png" alt="binary-banner">
-
 
 # About Me:
 - 👋 Hi, I’m Ezra - @STENTORS
