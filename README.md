@@ -1,10 +1,12 @@
+<img align="right" src="binary-git.png" alt="binary-banner">
 
 
-# 💫 About Me:
-👋 Hi, I’m Ezra - @STENTORS  
-👀 I’m interested in backend development and cyber security  
-😄 Pronouns: he/him  
-⚡ Fun fact: Microbiology Enthusiast  
+# About Me:
+- 👋 Hi, I’m Ezra - @STENTORS
+- 👀 I’m interested in backend development and cyber security
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Microbiology Enthusiast
+
 
 
 ## 🌐 Socials:
