@@ -1,4 +1,4 @@
-
+<img align="right" src="binary.png">
 # About Me:
 - 👋 Hi, I’m Ezra - @STENTORS
 - 👀 I’m interested in backend development and cyber security
@@ -43,6 +43,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
+  <img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh3N2ltbG41czd1YTh0OGR0Z2EwNzh0ZnhrbHpybGFxejQ0OW85NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/il49eQumsbadTznOH7/giphy.gif"  />
   <img src="https://github-readme-stats.vercel.app/api?username=stentor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="Stats Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stentor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="Languages Graph" />
 </div>
+
+<img align="left" src="binary-btm.png">
