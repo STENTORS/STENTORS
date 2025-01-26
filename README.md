@@ -1,13 +1,13 @@
 
 <img align="right" src="binary.png">
 
-
-# About Me:
-- 👋 Hi, I’m Ezra - @STENTORS
-- 👀 I’m interested in backend development and cyber security
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Microbiology Enthusiast
-
+# HELLO!
+I am Ezra, 
+- I am interested in backend development and cybesec.
+- Love participating in and [hosting Capture the Flag (CTF)](https://stentors.github.io) competitions.
+- Also interested in hardware and microelectronics. 
+- Currently working on a flask database project.
+- Studing towards an Extended Diploma in Computing.
 
 
 # 🌐 Socials:
@@ -46,9 +46,9 @@
 
 # 📊 GitHub Stats:
 <div align="left">
-  <img align="left" length="14px" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh3N2ltbG41czd1YTh0OGR0Z2EwNzh0ZnhrbHpybGFxejQ0OW85NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/il49eQumsbadTznOH7/giphy.gif"  />
-  <img length="14px" src="https://github-readme-stats.vercel.app/api?username=stentors&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="Stats Graph" />
-  <img length="14px" src="https://github-readme-stats.vercel.app/api/top-langs?username=stentors&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="Languages Graph" />
+  <img align="left" height="135" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh3N2ltbG41czd1YTh0OGR0Z2EwNzh0ZnhrbHpybGFxejQ0OW85NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/il49eQumsbadTznOH7/giphy.gif"  />
+  <img height="135" src="https://github-readme-stats.vercel.app/api?username=stentors&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="Stats Graph" />
+  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs?username=stentors&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="Languages Graph" />
 </div>
 
 
