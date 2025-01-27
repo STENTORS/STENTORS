@@ -4,7 +4,7 @@
 # HELLO!
 I am Ezra, 
 - I am interested in backend development and cybesec.
-- Love participating in and [hosting Capture the Flag (CTF)](https://stentors.github.io) competitions.
+- I emjoy participating in and [building/hosting Capture the Flag (CTF)](https://stentors.github.io) competitions.
 - Also interested in hardware and microelectronics. 
 - Currently working on a flask database project.
 - Studing towards an Extended Diploma in Computing.
