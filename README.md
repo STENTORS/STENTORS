@@ -1,7 +1,8 @@
 
-<img align="right" height="300" src="binary.png">
+<img align="right" height="400" src="binary.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Titillium+Web&size=35&duration=4000&pause=500&color=33F73B&width=435&lines=Hello!;I+am+Ezra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&duration=3000&pause=500&color=33F73B&background=000000&width=450&lines=Hello+:D;I+am+Ezra+Baldwin;Backend+Developer;Cybersec+Enthusiast)](https://git.io/typing-svg)
+
 - I am interested in backend development and cybesec.
 - I enjoy participating in and [building/hosting Capture the Flag (CTF)](https://stentors.github.io) competitions.
 - I am also interested in [hardware and microelectronics](https://github.com/STENTORS/GPIO).
