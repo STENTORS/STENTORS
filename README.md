@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Titillium+Web&size=35&duration=4000&pause=500&color=33F73B&width=435&lines=Hello!;I+am+Ezra)](https://git.io/typing-svg)
 - I am interested in backend development and cybesec.
 - I enjoy participating in and [building/hosting Capture the Flag (CTF)](https://stentors.github.io) competitions.
-- Also interested in hardware and microelectronics. 
+- I am also interested in [hardware and microelectronics](https://github.com/STENTORS/GPIO).
 - Currently working on a flask database project.
 - Studing towards an Extended Diploma in Computing.
 
@@ -17,9 +17,8 @@
 </div>
 
 
-
 # 💻 Tech Stack:
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BlZXJxdjdqYWRtdTVkd3d3dTZpZmN0YTFveDJxejVjZHppM2dmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UT7dXyL7qTtjG/giphy.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BlZXJxdjdqYWRtdTVkd3d3dTZpZmN0YTFveDJxejVjZHppM2dmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UT7dXyL7qTtjG/giphy.gif"/>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
