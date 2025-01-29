@@ -1,5 +1,5 @@
 
-<img align="right" height="370" src="binary.png">
+<img align="right" height="350" src="binary.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&duration=3000&pause=500&color=33F73B&background=000000&width=450&lines=Hello+[o_o];I+am+Ezra+Baldwin;Backend+Developer;Cybersec+Enthusiast)](https://git.io/typing-svg)
 # ~~(__^·>
