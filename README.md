@@ -8,9 +8,11 @@
 - I am also interested in [hardware and microelectronics](https://github.com/STENTORS/GPIO).
 - Currently working on a flask database project.
 - Studing towards an Extended Diploma in Computing.
+```
 ____________  ____________ 
 [__  | |___|\ | | |  ||__/ 
-___] | |___| \| | |__||  \ 
+___] | |___| \| | |__||  \
+```
                            
 <div align="left">
   <a href="https://linkedin.com/in/ezra-baldwin-stentors"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
