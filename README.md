@@ -1,7 +1,7 @@
 
 <img align="right" height="335" src="binary.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&duration=3000&pause=500&color=33F73B&background=000000&width=450&lines=Hello+[o_o];I+am+Ezra+Baldwin;Backend+Developer;Cybesec+Enthusiast+--o-Ộ-o--)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&duration=3000&pause=500&color=33F73B&background=000000&width=450&lines=Hello+[o_o];I+am+Ezra+Baldwin;Backend+Developer;Cybesec+Enthusiast)](https://git.io/typing-svg)
 # ~~(__^·>
 - I am interested in backend development and cybesec.
 - I enjoy participating in and [building/hosting Capture the Flag (CTF)](https://stentors.github.io) competitions.
@@ -42,12 +42,36 @@
   <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs?username=stentors&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="Languages Graph" />
 </div>
 
-# 🐍
+# 🐍 Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stentors/stentors/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stentors/stentors/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/stentors/stentors/output/github-snake.svg" />
 </picture>
 
+```
+__|__       _____  _                 _          __                 _                     _               _          
+\___/      |_   _|| |_   __ _  _ _  | |__ ___  / _| ___  _ _   ___| |_  ___  _ __  _ __ (_) _ _   __ _  | |__  _  _ 
+ | |         | |  | ' \ / _` || ' \ | / /(_-< |  _|/ _ \| '_| (_-<|  _|/ _ \| '_ \| '_ \| || ' \ / _` | | '_ \| || |
+ | |         |_|  |_||_|\__,_||_||_||_\_\/__/ |_|  \___/|_|   /__/ \__|\___/| .__/| .__/|_||_||_|\__, | |_.__/ \_, |
+ | |                                                                        |_|   |_|            |___/         |__/
+_|_|________________________  |  ______________________________________________   . ___________________________ .  _______________
+                              |                                                  //                             \\
+                              |                                                 //                               \\
+                            .-'-.                                              //                                 \\
+                           ' ___ '                                            //                _._                \\
+                 ---------'  .-.  '---------                               .---.              .//|\\.              .---.
+ _________________________'  '-'  '_________________________     ________ / .-. \_________..-~ _.-._ ~-..________ / .-. \_________ 
+  ''''''-|---|--/    \==][^',_m_,'^][==/    \--|---|-''''''               \ ~-~ /   /H-     `-=.___.=-'     -H\   \ ~-~ /
+                \    /  ||/   H   \||  \    /                               ~~~    / H          [H]          H \    ~~~
+                 '--'   OO   O|O   OO   '--'                                      / _H_         _H_         _H_ \
+                                                                                    UUU         UUU         UUU
+```
+whatfer@u.washington.edu
+by Jon Hyatt
 
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=transportation/airplanes
 
