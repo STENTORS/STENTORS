@@ -70,6 +70,6 @@ _________________________'  '-'  '_________________________     ________ / .-. \
 
 ```
 
-ART: by Jon Hyatt +
+ASCII ART: by Jon Hyatt +
 https://asciiart.website
 
