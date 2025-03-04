@@ -35,7 +35,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 [![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)](https://www.linkedin.com/in/ezra-baldwin-stentors/details/certifications/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://github.com/STENTORS/GPIO)
-burpsuite
+
 # Stats:
 <div align="left">
   <img align="left" height="135" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh3N2ltbG41czd1YTh0OGR0Z2EwNzh0ZnhrbHpybGFxejQ0OW85NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/il49eQumsbadTznOH7/giphy.gif"  />
