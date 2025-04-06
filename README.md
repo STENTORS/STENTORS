@@ -6,7 +6,7 @@
 - I am interested in backend development and cybesec.
 - I enjoy participating in and [building/hosting Capture the Flag (CTF)](https://stentors.github.io) competitions.
 - I am also interested in [hardware and microelectronics](https://github.com/STENTORS/GPIO).
-- Currently working on [[apprenticewatch](https://apprenticewatch.com)
+- Currently working on [apprenticewatch](https://apprenticewatch.com)
 - Studing towards an Extended Diploma in Computing.
 
 # Connect                         
