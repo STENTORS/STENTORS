@@ -19,7 +19,7 @@
 # Tech Stack / links:
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BlZXJxdjdqYWRtdTVkd3d3dTZpZmN0YTFveDJxejVjZHppM2dmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UT7dXyL7qTtjG/giphy.gif"/>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![C](https://img.shields.io/badge/c/c++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/STENTORS/ISOPOD)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/STENTORS/number-plates)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
