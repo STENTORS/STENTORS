@@ -1,7 +1,7 @@
 
 <img align="right" height="335" src="binary.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&duration=3000&pause=500&color=33F73B&background=000000&width=500&lines=Hello+[o_o];I+am+Ezra!;Cybersec+Apprentice;Backend+Dev+:])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&duration=3000&pause=500&color=33F73B&background=000000&width=450&lines=Hello+[o_o];I+am+Ezra!;Cybersec+Apprentice;Backend+Dev+:])](https://git.io/typing-svg)
 # ~~(__^·>
 - I am interested in Red Team Cyber Security.
 - Starting a cyber security degree apprenticeship @ HSBC
