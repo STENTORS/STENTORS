@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&duration=3000&pause=500&color=33F73B&background=000000&width=450&lines=Hello+[o_o];I+am+Ezra!;Cybersec+Apprentice;Backend+Dev+:])](https://git.io/typing-svg)
 # ~~(__^·>
 - I am interested in Red Team Cyber Security.
-- Cyber security degree apprenticeship @ HSBC
+- Cyber security degree apprentice @ HSBC
 - I enjoy participating in and [building/hosting Capture the Flag (CTF)](https://stentors.github.io) competitions.
 - I am also interested in [hardware and microelectronics](https://github.com/STENTORS/GPIO).
 - Currently working on [apprenticewatch](https://apprenticewatch.com)
