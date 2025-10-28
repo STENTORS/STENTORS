@@ -1,15 +1,20 @@
 
-<img align="right" height="335" src="binary.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&duration=3000&pause=500&color=33F73B&background=000000&width=450&lines=Hello+[o_o];I+am+Ezra!;Cybersec+Apprentice;Backend+Dev+:])](https://git.io/typing-svg)
-# ~~(__^·>
-- I am interested in Red Team Cyber Security.
-- Cyber security degree apprentice @ HSBC
-- I enjoy participating in and [building/hosting Capture the Flag (CTF)](https://stentors.github.io) competitions.
-- I am also interested in [hardware and microelectronics](https://github.com/STENTORS/GPIO).
-- Currently working on [apprenticewatch](https://apprenticewatch.com)
 
-# Connect                         
+
+# ~~(__^·>  
+■ Red Team Cyber Security. <br>
+■ Cyber security degree apprentice @ HSBC  <br>
+■ I enjoy participating in and [building/hosting Capture the Flag (CTF)](https://stentors.github.io) competitions. <br>
+■ I am also interested in [hardware and microelectronics](https://github.com/STENTORS/GPIO). <br>
+■ Currently working on [apprenticewatch](https://apprenticewatch.com) <br>
+
+
+
+    
+
+# Connect
 <div align="left">
   <a href="https://linkedin.com/in/ezra-baldwin-stentors"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
   <a href="mailto:ezraibaldwin@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /></a>
@@ -70,6 +75,8 @@ _________________________'  '-'  '_________________________     ________ / .-. \
 
 ```
 
-ASCII ART: by Jon Hyatt +
-https://asciiart.website
-
+<div float="left" align="center">
+   <kbd>
+     ASCII ART: by Jon Hyatt + https://asciiart.website
+   </kbd>
+</div>
