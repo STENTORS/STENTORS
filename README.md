@@ -4,7 +4,7 @@
 
 
 # ~~(__^·>  
-■ Red Team Cyber Security. <br>
+■ Offensive Security. <br>
 ■ Cyber security degree apprentice @ HSBC  <br>
 ■ I enjoy participating in and [building/hosting Capture the Flag (CTF)](https://stentors.github.io) competitions. <br>
 ■ I am also interested in [hardware and microelectronics](https://github.com/STENTORS/GPIO). <br>
