@@ -12,8 +12,6 @@
 
 
 
-    
-
 # Connect
 <div align="left">
   <a href="https://linkedin.com/in/ezra-baldwin-stentors"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
@@ -21,7 +19,7 @@
   <a href="https://tryhackme.com/r/p/STENTOR"><img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TryHackMe" /></a>
 </div>
 
-# Tech Stack / links:
+# Tech Stack
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BlZXJxdjdqYWRtdTVkd3d3dTZpZmN0YTFveDJxejVjZHppM2dmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UT7dXyL7qTtjG/giphy.gif"/>
 
 [![C](https://img.shields.io/badge/c/c++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/STENTORS/ISOPOD)
@@ -41,14 +39,9 @@
 [![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)](https://www.linkedin.com/in/ezra-baldwin-stentors/details/certifications/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://github.com/STENTORS/GPIO)
 
-# Stats:
-<div align="left">
-  <img align="left" height="135" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh3N2ltbG41czd1YTh0OGR0Z2EwNzh0ZnhrbHpybGFxejQ0OW85NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/il49eQumsbadTznOH7/giphy.gif"  />
-  <img height="135" src="https://github-readme-stats.vercel.app/api?username=stentors&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="Stats Graph" />
-  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs?username=stentors&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="Languages Graph" />
-</div>
 
-# 🐍 Contributions
+
+# Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stentors/stentors/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stentors/stentors/output/github-snake.svg" />
